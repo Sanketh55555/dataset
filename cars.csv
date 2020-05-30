@@ -124,7 +124,7 @@
 123,Porsche 911,Carrera 4S,"$112,000"
 124,Porsche 911,Carrera GTS,"$120,700"
 125,Porsche 911,Targa 4S,"$124,300"
-126,Porsche 911,Carrera 4 GTS,"$127,600"
+126,,Carrera 4 GTS,"$127,600"
 127,Porsche 911,Targa 4 GTS,"$139,900"
 128,Porsche 911,GT3,"$143,600"
 129,Porsche 911,Turbo,"$161,800"
@@ -133,6 +133,5 @@
 132,Porsche 911,GT2 RS,"$293,200"
 133,Subaru WRX STI,WRX STI,"$36,595"
 134,Toyota 86,Base,"$26,455"
-135,Toyota 86,GT,"$28,585"
-136,Honda,gt,
-137,,gr,"$60,000
+135,Toyota 86,,"$28,585"
+

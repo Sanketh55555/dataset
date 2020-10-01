@@ -1,0 +1,51 @@
+Yes i would like to wait,yes
+// Yes i don't have any work now so i'll wait ||,yes
+// Yes i will wait ||,yes
+// Won't wait ||,no
+// Yes i will be ||,yes
+// Yes stop but don't delay ||,yes
+// Will stop ||,yes
+// Do not want ||,no
+// No ||,no
+// Yes want ||,yes
+// Yes i will wait but don't take long ||,yes
+// No ||,no
+// Yes i have only 10 minutes i will wait ||,yes
+// Yes there is no problem in stopping ||,yes
+// I won't wait i have a lot of work ||,no
+// No i won't wait ||,no
+// I can't wait so long ||,no
+// Won't stop ||,no
+// I'll look at such a big list later ||,no
+// Yes i will wait ||,yes
+// No ||,no
+// Will stop ||,yes
+"// I am an employee, I can't wait ||",no
+// I'll book an appointment later ||,no
+// Yes i have no problem waiting i will wait ||,yes
+// Yes no problem ||,yes
+// No see tomorrow ||,no
+// You don't have to wait and see me later ||,no
+// Will wait ||,yes
+// No why should i waste my time ||,no
+// No i don't want to waste time ||,no
+// I don't have to wait ||,no
+// Yes then rickshaw ||,yes
+// Yes stop ||,yes
+// I have a lot of work i won't sleep to waste time waiting ||,no
+// Yes ||,yes
+// I don't want to wait ||,no
+// Hurry up if you have a little accident ||,yes
+// I don't have to waste time waiting ||,no
+// No need ||,no
+// Yes i will wait ||,yes
+// Yes hurry up ||,yes
+// I don't like to ||,no
+// Yes i will wait ||,yes
+// Yes i will see ||,yes
+// I do not want this wedding ||,no
+// Don't want daughter ||,no
+// Yes i will have some problem waiting ||,no
+// I will see you later ||,no
+// I'm at work now can't wait ||,no
+// Will initiate ||,yes

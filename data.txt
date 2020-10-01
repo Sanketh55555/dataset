@@ -1,4 +1,4 @@
-Yes i would like to wait,yes
+// Yes i would like to wait ||,yes
 // Yes i don't have any work now so i'll wait ||,yes
 // Yes i will wait ||,yes
 // Won't wait ||,no
@@ -20,7 +20,7 @@ Yes i would like to wait,yes
 // Yes i will wait ||,yes
 // No ||,no
 // Will stop ||,yes
-"// I am an employee, I can't wait ||",no
+// I am an employee, I can't wait ||,no
 // I'll book an appointment later ||,no
 // Yes i have no problem waiting i will wait ||,yes
 // Yes no problem ||,yes

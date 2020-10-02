@@ -1,0 +1,17 @@
+// yes, i would like to wait ||	yes
+// no, i don't want to wait ||	no
+// no ||	no
+// yes ||	yes
+// not now ||	no
+// i am busy at the moment ||	no
+// i am busy right now ||	no
+// yeah, sure ||	yes
+// yeah, okay ||	yes
+// i am busy ||	no
+// i am busy right now ||	no
+// not right now ||	no
+// that's right ||	yes
+// alright ||	yes
+// that's right ||	yes
+// yes, i will wait ||	yes
+// ok ||	yes
